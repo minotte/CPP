@@ -23,7 +23,7 @@ According to the subject there is 4 constraints for this project:
 |   **03**   | Inheritance        | 
 |   **04**   | Subtype polymorphism, abstract classes, interfaces        |
 |   **05**   | Repetition and Exceptions        | 
-|   **06**   |
+|   **06**   | C++ casts  |
 |   **07**   | C++ templates        |
 |   **08**   | Templated containers, iterators, algorithms        |
 |   **09**   | STL        |
